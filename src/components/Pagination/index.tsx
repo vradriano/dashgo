@@ -1,10 +1,15 @@
-import { Stack, Button, Box } from '@chakra-ui/react'
+import { Stack, Button, Box, useBreakpointValue } from '@chakra-ui/react'
 import { PaginationItem } from './PaginationItem'
 
 export default function Pagination() {
+  const isWideVersion = useBreakpointValue({
+    base: false,
+    lg: true
+  })
+  
   return (
     <Stack
-      direction="row"
+      direction={["column", "row"]}
       mt="8"
       justify="space-between"
       align="center"
