@@ -3,6 +3,7 @@ import Sidebar from '../../components/Sidebar'
 import Pagination from '../../components/Pagination'
 import { Box, Button, Checkbox, Flex, Heading, Icon, Table, Tbody, Td, Text, Th, Thead, Tr, useBreakpointValue } from '@chakra-ui/react'
 import { RiAddLine, RiPencilLine } from "react-icons/ri"
+import Link  from 'next/link'
 
 export default function UserList() {
 
@@ -22,15 +23,17 @@ export default function UserList() {
           <Flex mb="8" justify="space-between" align="center" >
             <Heading size="lg" fontWeight="normal"> Usuários </Heading>
             
-            <Button
-              as="a"
-              size="sm"
-              fontSize="small"
-              colorScheme="pink"
-              leftIcon={<Icon as={RiAddLine} fontSize="20" />}
-            >
-              Novo usuário
-            </Button>
+            <Link href="/users/create" passHref>
+              <Button
+                as="a"
+                size="sm"
+                fontSize="small"
+                colorScheme="pink"
+                leftIcon={<Icon as={RiAddLine} fontSize="20" />}
+              >
+                Novo usuário
+              </Button>
+            </Link>
           </Flex>
 
           <Table colorScheme="whiteAlpha">
