@@ -4,7 +4,7 @@ import { NotificationsNav } from './NotificationsNav'
 import { Profile } from './Profile'
 import { SearchBox } from './SearchBox'
  
-import { useSideBarDrawer } from '../contexts/SidebarDrawerContext'
+import { useSideBarDrawer } from '../../contexts/SidebarDrawerContext'
 import { RiMenuLine } from 'react-icons/ri'
 
 export default function Header() {
