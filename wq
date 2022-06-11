@@ -1,0 +1,149 @@
+[33mcommit 756c3a5f26667300a0774349caec9c14484cc0ec[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Sun Jun 5 22:46:09 2022 -0300
+
+    Add axios, create useUsers hooks
+
+[33mcommit be2ff15a274e957102740439fd6c8b10b14a7c31[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Sun Jun 5 14:39:21 2022 -0300
+
+    add react query devtools, spinner while loading
+
+[33mcommit 46983c299eba82546ea247547713831477eaedb4[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Sun Jun 5 14:11:31 2022 -0300
+
+    listing users
+
+[33mcommit 4659002244e1528d8777432e49260d77ab91eb6b[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Sat Jun 4 22:18:03 2022 -0300
+
+    Add react-query, useQuery fetching fakee api
+
+[33mcommit 8e2ad5a75858748349b0b57b2747c06b0c277d84[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Sat Jun 4 21:35:58 2022 -0300
+
+    Add faker, types faker, factories and seeds
+
+[33mcommit a2cb0bb6a4560cd109db49b0656daee9aada7bff[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Thu Jun 2 23:48:14 2022 -0300
+
+    check if development mode, add miragejs
+
+[33mcommit f1f5a4e075c377eff1dbfcb0f00424565e594c59[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Mon May 23 23:35:59 2022 -0300
+
+    validating create user form
+
+[33mcommit f275499e98840eb5b48c292e2cbcd6c3d09338f6[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Mon May 23 23:12:02 2022 -0300
+
+    Install yup, validating signin form
+
+[33mcommit 6496d2b786793269c4160d8b7aa85cc4f9b13b4e[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Sun May 22 21:54:12 2022 -0300
+
+    Install react-hook-form, signIn form authentication
+
+[33mcommit 6e0ef894f2af1190eb6308f31d7349455326a625[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Sat May 21 16:56:49 2022 -0300
+
+    Active Link
+
+[33mcommit 572e6f7ea57ce36e87ce10a38c3f5b367e3e769e[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Sat May 21 12:52:10 2022 -0300
+
+    nav links
+
+[33mcommit c6015ecc1a02b4ae83799500f60f0e95c753910e[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Sat May 21 10:46:02 2022 -0300
+
+    Dashboard, table and signup page responsive
+
+[33mcommit 66c17ac2b56a68e15d09800ed3f2456d4eb7f83d[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Sat May 21 09:04:23 2022 -0300
+
+    Menudrawer responsive, context state menu
+
+[33mcommit 73572fb31d40a0ac49a312731e0402fde69306fd[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Sat May 21 08:34:16 2022 -0300
+
+    responsive header
+
+[33mcommit 94cb94739f57881fa7aca9e4d0610bf516dc365b[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Fri May 20 23:39:40 2022 -0300
+
+    components
+
+[33mcommit 1e8ae05abc1dbe038b6d5af7f777c8a4f0a2c27e[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Thu May 19 22:35:48 2022 -0300
+
+    Create user page
+
+[33mcommit 1975a257ec44d7eb221e7aa6eb27235234acd8bd[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Thu May 19 22:22:32 2022 -0300
+
+    Pagination
+
+[33mcommit 4e5de24fd282caa083df4d50e1a8cf40a20d78d1[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Thu May 19 22:13:41 2022 -0300
+
+    Userslist page
+
+[33mcommit 817b01f2b21a79c3285af2dfeed75c7ac6d3f7aa[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Wed May 18 23:54:18 2022 -0300
+
+    Apex Charts, dashboard with chart
+
+[33mcommit 1fa46f21bac2a28cdf6fb16ca9d3d43c6ee3abce[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Wed May 18 23:21:55 2022 -0300
+
+    Sidebar
+
+[33mcommit 804f6f20a7cabfad6006e5529bc4a0a986fef509[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Wed May 18 22:52:30 2022 -0300
+
+    Header
+
+[33mcommit a7f8b4c8b908edf08f6b0eabb0b478f75792d2fa[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Tue May 17 23:35:49 2022 -0300
+
+    Componentizando Input
+
+[33mcommit 1600814cb534fdae9156a6ce08f4a94e535d2038[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Tue May 17 23:19:57 2022 -0300
+
+    página sign-in
+
+[33mcommit 565f08f4ac414bcd3bad2525ad3739803aa1fdbb[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Sat May 14 22:01:33 2022 -0300
+
+    Adicionando typescript, configurando chakraUI e configurando fonte
+
+[33mcommit 9ea22bd3af453529c07577b407bebbcb0b8d1477[m
+Author: unknown <vradriano@hotmail.com>
+Date:   Sat May 14 20:56:46 2022 -0300
+
+    Initial commit from Create Next App
